@@ -67,6 +67,8 @@ Trained for 30 epochs (batch size 16, AdamW `lr=1e-4`), the model achieved **99.
 ### Sample Test Predictions
 ![Sample Predictions](assets/sample_predictions.png)
 
+Note: The MIT License applies to the source code in this repository; the dataset remains subject to the original authors' terms on Kaggle.
+
 ## Dataset Attribution
 - **Dataset:** [`birdy654/detecting-ai-generated-artwork`](https://www.kaggle.com/datasets/birdy654/detecting-ai-generated-artwork/data)
 - **Citation:** Bird, J.J., Barnes, C.M., Lotfi, A. (2024). *AI Generated Art: Latent Diffusion-Based Style and Detection*. Advances in Computational Intelligence Systems. UKCI 2023.
